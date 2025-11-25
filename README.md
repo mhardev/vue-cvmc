@@ -32,6 +32,7 @@ The project focuses on simplicity, responsiveness, and clean design.
 - **Vite.js**
 - **Node.js** 
 - **EmailJS**
+- **GoogleMap API**
 - **JavaScript (ES6+)**
 
 ---
