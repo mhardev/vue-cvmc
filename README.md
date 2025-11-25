@@ -1,6 +1,63 @@
-# vue-cvmc
+# 🏥 CV Medical Clinic — Landing Page
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple, modern, and responsive landing page created for **CV Medical Clinic**.  
+This project showcases clean UI design, smooth interactions, and a functional contact form powered by **EmailJS**.
+
+---
+
+## 🚀 Demo
+> *https://cvmc.vercel.app/*
+
+---
+
+## 📌 About the Project
+
+This is a mini landing page project built using **Vue.js**, **Tailwind CSS**, and **Vite**.  
+The purpose of the website is to provide visitors with essential information about the clinic, including:
+
+- Services Offered  
+- Clinic Overview  
+- Contact Information  
+- Location  
+- Online Appointment Form (via EmailJS)
+
+The project focuses on simplicity, responsiveness, and clean design.
+
+---
+
+## 🛠️ Technologies:
+
+- **Vue.js**
+- **Tailwind CSS**
+- **Vite.js**
+- **Node.js** 
+- **EmailJS**
+- **JavaScript (ES6+)**
+
+---
+
+## ✨ Features
+
+- 🌐 **Responsive Design** — Works on desktop, tablet, and mobile  
+- 📄 **Clean & Modern UI** — Tailwind-based design system  
+- 📬 **Contact Form w/ EmailJS Integration**  
+- 🏥 **Clinic Services Section**  
+- 👨‍⚕️ **About the Clinic Section**  
+- 📍 **Location & Footer Section**  
+- ⚡ **Fast Build & Hot Reloading via Vite**  
+
+All features are based on the public repository:  
+🔗 https://github.com/mhardev/vue-cvmc
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/mhardev/vue-cvmc
+cd vue-cvmc
+```
 
 ## Recommended IDE Setup
 
