@@ -13,8 +13,8 @@ const resetForm = () => {
 
 const sendEmail = () => {
   emailjs
-    .sendForm('service_buc16bi', 'template_4ql3lie', form.value, {
-      publicKey: 'dZho8DDRbgRF61_80',
+    .sendForm('service_uoorioe', 'template_bur03mb', form.value, {
+      publicKey: 'HuU1d4jpUoeeR9PqI',
     })
     .then(
       () => {
@@ -47,6 +47,12 @@ const sendEmail = () => {
       </p>
       <form ref="form" class="space-y-8" @submit.prevent="sendEmail">
         <div>
+          <input
+            type="business"
+            id="business"
+            name="business"
+            hidden
+          />
           <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
             >Name</label
           >
