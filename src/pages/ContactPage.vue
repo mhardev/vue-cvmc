@@ -48,10 +48,10 @@ const sendEmail = () => {
       <form ref="form" class="space-y-8" @submit.prevent="sendEmail">
         <div>
           <input
-            type="business"
+            type="hidden"
             id="business"
             name="business"
-            hidden
+            value="CVMC"
           />
           <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
             >Name</label
