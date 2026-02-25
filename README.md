@@ -91,3 +91,8 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## 👨‍💻 Developer
+
+Joshua Mhar M. Alcubilla  
+Web Developer
